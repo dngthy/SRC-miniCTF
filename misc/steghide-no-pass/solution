@@ -1,0 +1,2 @@
+Step 1: steghide --extract -sf pexels-julius-silver-753626.jpg
+Step 2: cat flag.txt

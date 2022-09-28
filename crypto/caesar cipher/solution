@@ -1,0 +1,2 @@
+Step 1: Copy cipher to website: https://cryptii.com/pipes/caesar-cipher
+Step 2: We try all entries from 1->26. Ctrl-F SRC{}. Combine 2 previous steps to get flag.
